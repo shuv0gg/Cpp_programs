@@ -41,4 +41,4 @@ int main()
     return 0;
 }
 
-/* This code is contributed by Hritik Shah. */
+/* This code is contributed by ShuvoGG */
